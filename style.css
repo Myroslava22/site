@@ -1,0 +1,28 @@
+body{
+    background-image: url(Рисунок1.jpg);
+    background-position: center;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+
+.pad {
+    padding: 0px 95px 0px 165px;
+}
+.menu {
+    padding: 15px 50px 15px 165px;
+    background-color: rgba(30, 79, 239, 0.66);
+    border-radius: 100px;
+    background-position: center;
+    
+}
+
+.content {
+	padding: 20px 0 50px 0;
+    border-radius: 15px;
+    background-position: center;}
+.vidstup{
+    padding: 0px 50px 0px 165px;
+}
